@@ -1,0 +1,5 @@
+.post_content {
+  grid-area: p;
+  border: 5px solid #f5e6d4;
+  height: 100%;
+}

@@ -1,0 +1,23 @@
+.post_content {
+  grid-area: p;
+  /* border: 5px 
+  solid #f5e6d4; */
+  height: 100%;
+  padding: 15px;
+}
+
+.PostInput {
+  margin-top: 25px;
+  height: 70px;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  padding: 5px;
+  font-size: 18px;
+}
+
+.btnPlace {
+  margin-left: 273px;
+}
